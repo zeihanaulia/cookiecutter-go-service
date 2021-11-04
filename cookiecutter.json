@@ -2,6 +2,7 @@
     "github_username": "zeihanaulia",
     "app_name": "myapp",
     "project_short_description": "A Golang simple service.",
+    "docker_hub_username": "zeihanaulia",
     "docker_build_image": "golang",
     "docker_build_image_version": "1.17.2-alpine",
     "docker_image": "myapp"
